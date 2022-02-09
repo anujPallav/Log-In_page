@@ -1,0 +1,117 @@
+.sign-up-container{
+    position: relative;
+    width: 300px;
+    height: 450px;
+
+    border: solid;
+    border-radius: 15px;
+    
+
+    margin-top:-30%;
+    margin-left: 50%;
+}
+
+.register_form_div{
+    position: absolute;
+    margin-top: 20%;
+    margin-left:15% ;
+}
+
+.register_form_logo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+
+    border: solid;
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-top: -60%;
+}
+
+#sign-up-button{
+    margin-left: 20%;
+    margin-top: -5%;
+}
+.name_image_logo{
+position: absolute;
+width: 30px;
+height: 30px;
+
+border: solid;
+border-radius: 50%;
+}
+.email_logo{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    
+    border: solid;
+    border-radius: 50%;
+}
+.mobile_logo{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    
+    border: solid;
+    border-radius: 50%;
+}
+.var_code_logo{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    
+    border: solid;
+    border-radius: 50%;
+}
+
+#name{
+    border: none;
+    background: none;
+}
+#email{
+    border: none;
+    background: none;
+}
+#mobile_number{
+    border: none;
+    background: none;
+}
+#var_code_number{
+    border: none;
+    background: none;
+}
+.google_logo{
+    position: absolute;
+    display: inline;
+
+    width: 30px;
+    height: 30px;
+    border: solid;
+    border-radius: 50%;
+    margin-top: 12%;
+    margin-left: -60%;
+}
+
+.facebook_logo{
+    position: absolute;
+    display: inline;
+
+    width: 30px;
+    height: 30px;
+    border: solid;
+    border-radius: 50%;
+    margin-top: 12%;
+    margin-left: -30%;
+}
+.github_logo{
+    position: absolute;
+    display: inline;
+
+    width: 30px;
+    height: 30px;
+    border: solid;
+    border-radius: 50%;
+    margin-top: 12%;
+    margin-left: 1%;
+}
